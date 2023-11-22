@@ -1,0 +1,10 @@
+        NOTE:- I could not integrate chatgpt as it require to subscribe for gpt+, there are some gptapi but they are not stable
+        
+        STEPS TO RUN THE WEB
+        -cd server 
+        -npm install
+        -npm run server
+        -cd ..
+        -cd client
+        -npm install
+        -npm run start
